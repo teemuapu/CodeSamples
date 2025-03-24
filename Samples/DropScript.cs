@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-//This script includes a simple dropsystem for an unpublished game prototype.
+//This script includes a simple drop system for an unpublished game prototype.
 public class DropScript : MonoBehaviour
 {
     [SerializeField] int blockCount;
